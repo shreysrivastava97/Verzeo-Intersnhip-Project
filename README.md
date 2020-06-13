@@ -15,5 +15,5 @@ In this project I was given a datset of old cars with the following features:
     Seats: The number of seats in the car.
     Price: The price of the used car in INR Lakhs.
     
-Along with this we were a given a dataset for which the prices had to be predicted.
+Along with this we were a given a dataset with the same columns but the prices had to be predicted.
 Hence, the aim of the project was to predict the prices of the cars in the second data set based on the first data set.
